@@ -58,3 +58,38 @@ body img{
 	height:60;
 	width:340;
 }
+.boton_extra_uno
+{
+	width: 545px;
+	height: 335px;
+	background-color: #AC58FA;
+	margin-left: 43px;
+	float:left;
+	
+	border-radius: 7px;
+}
+
+.boton_extra_dos
+{
+	width: 545px;
+	height: 335px;
+	background-color: #0080FF;
+	margin-left: 640px;
+	margin-bottom: 20px;
+	border-radius: 7px;
+}
+.titulo_extra_uno{
+	color:white;
+	margin-top: 140px;
+	text-align: center;
+	font-size: 40px;
+	font-family: helvetica;
+}
+
+.titulo_extra_dos{
+	color:white;
+	margin-top: 1px;
+	text-align: center;
+	font-size: 40px;
+	font-family: helvetica;
+}
